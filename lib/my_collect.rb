@@ -9,7 +9,10 @@ def my_collect(array)
   yield(array[i])
   i += 1 
 end 
+<<<<<<< HEAD
 collection
+=======
+>>>>>>> fd447c1d5678b65def6cea61221910e769d50bfa
 end
 
 
